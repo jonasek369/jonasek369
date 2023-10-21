@@ -17,7 +17,7 @@ Some of the projects I worked on and are worth mentioning:
 - [Local mangadex](https://github.com/jonasek369/local-mdx-public): Offline implementation of mangadex website using their API.
 - [AirWarfare](https://github.com/jonasek369/Plane-Game): 2D shooter game with planes made using pygame.
 - [Url shortener](https://github.com/jonasek369/url-shortener): Url shortener made in Python, SQLite, Redis.
-- [CLI password manager](https://github.com/jonasek369/python-password-manager): CLI password manager made in Python usign RSA.
+- [CLI password manager](https://github.com/jonasek369/python-password-manager): CLI password manager made in Python using RSA.
 
 ## 🏆 Competitions
 - [2022](https://www.talentovani.cz/souteze/soutez-v-programovani/archive) I won the district round and regional (Liberecký kraj) round in the pupils category and archived the 10th position in the Championship of the Czech Republic.
