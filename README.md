@@ -20,7 +20,7 @@ Some of the projects I worked on and are worth mentioning:
 - [CLI password manager](https://github.com/jonasek369/python-password-manager): CLI password manager made in Python using RSA.
 
 ## 🏆 Competitions
-- [2022](https://www.talentovani.cz/souteze/soutez-v-programovani/archive) I won the district round and regional (Liberecký kraj) round in the pupils category and archived the 10th position in the Championship of the Czech Republic.
+- [2022](https://www.talentovani.cz/souteze/soutez-v-programovani/archive) I won the district round and regional (Liberecký kraj) round in the pupils category and achieved the 10th position in the Championship of the Czech Republic.
 - [2023](https://www.talentovani.cz/souteze/soutez-v-programovani/archive) I achieved 4th place in the regional (Královehradecký kraj) round in the student's category.
 
 
