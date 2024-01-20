@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am Jonáš Erlebach, a 17-year-old tech enthusiast from Liberecký kraj in the Czech Republic. Currently, I am studying robotics and programming at [Podorlické vzdělávací centrum](https://www.sspvc.cz/).
+I am Jonáš Erlebach, an 18-year-old tech enthusiast from Liberecký kraj in the Czech Republic. Currently, I am studying robotics and programming at [Podorlické vzdělávací centrum](https://www.sspvc.cz/).
 ## 💻 Technologies & Tools
 - **Main Programming Language:** Python 🐍
 - **Languages I've Worked With:** Java, C/C++, C#, JS, Kotlin
