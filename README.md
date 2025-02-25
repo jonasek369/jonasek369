@@ -44,7 +44,7 @@ I am **Jonáš Erlebach**, a 19-year-old tech enthusiast from Liberecký kraj in
 
 ## 🚀 **Projects**
 
-### [Local Mangadex](https://github.com/jonasek369/local-mdx-public)
+### [Local Mangadex]([https://github.com/jonasek369/local-mdx-public](https://github.com/jonasek369/local-mdx-public/tree/rewrite))
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Flask](https://img.shields.io/badge/Flask-2.0-green) ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-yellow)
 Offline implementation of Mangadex using their API. Features include...
 
