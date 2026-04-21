@@ -71,7 +71,7 @@ I'm a software developer studying robotics & programming at [Podorlické vzděl�
 
 | Project | Description | Stack |
 |---|---|---|
-| [📖 Local Mangadex](https://github.com/jonasek369/local-mdx-public/tree/rewrite) | Offline manga reader using the MangaDex API | Python · Flask · MongoDB |
+| [📖 Local Mangadex](https://github.com/jonasek369/local-mdx-public/tree/rewrite) | Offline manga reader using the MangaDex API | Python · Flask · SQlite |
 | [📝 CCode Editor](https://github.com/jonasek369/CCode-editor) | Terminal code editor written in C, inspired by Vi | C |
 | [🔧 C-JSON](https://github.com/jonasek369/C-JSON) | JSON parser from scratch | C |
 | [⚙️ C-LSP-Client](https://github.com/jonasek369/C-LSP-Client) | LSP client from scratch | C |
