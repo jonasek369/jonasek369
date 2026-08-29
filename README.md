@@ -1,7 +1,7 @@
 # Jonáš Erlebach
 **20yo · Czech Republic · I build things from scratch**
 
-Backend, embedded, and systems dev. Finished high school at [PVC](https://www.sspvc.cz/) (Robotics & programming), accepted to [UHK FIM](https://www.uhk.cz/en/faculty-of-informatics-and-management/about-faculty), starting this fall. I like understanding how things work under the hood, which usually means writing C. I'm also interested in industrial robotics and PLC.
+Backend, embedded, and systems dev. Finished high school at [PVC](https://www.sspvc.cz/) (Robotics & programming), Student at [UHK FIM](https://www.uhk.cz/en/faculty-of-informatics-and-management/about-faculty). I like understanding how things work under the hood, which usually means writing C. I'm also interested in industrial robotics and PLC.
 
 ---
 
@@ -37,10 +37,10 @@ Backend, embedded, and systems dev. Finished high school at [PVC](https://www.ss
 ---
 
 ### competitions & events
-
 - 2022 Czech Programming Championship — district & regional winner, **10th nationally**
 - 2023 Regional Programming Competition — **4th place**, Královehradecký kraj
 - **FANUC Kemp 2025** — industrial automation camp at SŠTE Brno, hands-on with FANUC robots, and the FANUC vision
+- 2026 Czechskills — Our (me & @KurkyOkurky) [Tic-tac-toe project on FANUC CRX-10iA](https://github.com/jonasek369/Fanuc-tic-tac-toe) feature by FANUC Czech
 
 ---
 
